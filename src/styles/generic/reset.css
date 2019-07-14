@@ -3,3 +3,8 @@
 body {
   margin: 0;
 }
+
+ul, el {
+  list-style: none;
+  padding: 0;
+}
